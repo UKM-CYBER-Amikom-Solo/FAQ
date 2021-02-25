@@ -27,6 +27,7 @@
 - Organisasi ini dapat sebagai tongkat estafet antar-generasi
 - Sebagai wadah seluruh anggota CYBER, media silaturahmi, dan berbagi ilmu antar-generasi CYBER
   - https://github.com/UKM-CYBER-Amikom-Solo/Daftar-Angkatan-CYBER
+- Semoga banyak yang berinisiatif membuatkan wiki bahkan templatenya
 
 # FAQ (Pertanyaan Yang Sering Diajukan)
   - Organisasi
