@@ -1,9 +1,10 @@
 # Mengapa-GitHub-Organisasi-CYBER-Amikom-Solo-dibuat?
-- dibuat karena kegabutan di masa pandemi corona
-- 
+- Dibuat untuk mengisi kegiatan Anggota sebagai pengganti tatap muka di masa pandemi corona, semoga dapat berlanjut sampai tahun-tahun berikutnya
+
 
 # Keuntungan yang Didapat Setelah Masuk Organisasi
 - Dengan minimal membuat akun GitHub dan menyimpannya di gudang pribadi, kita akan dapat : 
+  - Memiliki backup cloud pribadi dari tugas kuliah atau tugas akhir
   - memantau skill yang kita kuasai di pemrograman (cek profil masing-masing)
   - bisa sebagai lampiran pendamping kita untuk melamar pekerjaan di Bidang IT
 - Kita dapat mencatat dan PROKER CYBER di masa lalu dan masa depan dari generasi ke generasi
@@ -33,3 +34,5 @@
         - https://www.instagram.com/cyber.amikom/
       - Untuk mempermudah masuk, bisa follow admin
         - https://github.com/Admin-Cyber-Amikom-Solo
+# GitHub kuwi opo???
+     - https://github.com/UKM-CYBER-Amikom-Solo/Belajar-GitHub/blob/main/README.md
