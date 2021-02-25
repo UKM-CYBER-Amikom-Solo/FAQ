@@ -35,4 +35,4 @@
       - Untuk mempermudah masuk, bisa follow admin
         - https://github.com/Admin-Cyber-Amikom-Solo
 # GitHub kuwi opo???
-     - https://github.com/UKM-CYBER-Amikom-Solo/Belajar-GitHub/blob/main/README.md
+- https://github.com/UKM-CYBER-Amikom-Solo/Belajar-GitHub/blob/main/README.md
