@@ -1,5 +1,7 @@
 # Mengapa-GitHub-Organisasi-CYBER-Amikom-Solo-dibuat?
+- Terinspirasi dari https://github.com/sandhikagalih/project-kalian
 - Dibuat untuk mengisi kegiatan Anggota sebagai pengganti tatap muka di masa pandemi corona, semoga dapat berlanjut sampai tahun-tahun berikutnya
+- Ketrigger kawan dengan kata "ikut CYBER manfaatnya apa?"
 
 
 # Keuntungan yang Didapat Setelah Masuk Organisasi
