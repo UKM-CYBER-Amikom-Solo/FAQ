@@ -1,4 +1,4 @@
-# Mengapa-GitHub-Organisasi-CYBER-Amikom-Solo-dibuat?
+# Mengapa GitHub Organisasi CYBER Amikom Solo dibuat?
 - Terinspirasi dari https://github.com/sandhikagalih/project-kalian
 - Dibuat untuk mengisi kegiatan Anggota sebagai pengganti tatap muka di masa pandemi corona, semoga dapat berlanjut sampai tahun-tahun berikutnya
 - Ketrigger kawan dengan kata "ikut CYBER manfaatnya apa?"
@@ -22,7 +22,7 @@
   - 
 
 # Harapan
-- Dapat membuat UKM CYBER menjadi lebih kompleks dan kaya ilmu, sebagai pedoman pengalaman menghadapi dunia kerja
+- Dapat membuat UKM CYBER menjadi lebih kompleks dan kaya ilmu, sebagai bekal pengalaman menghadapi dunia kerja
   - https://github.com/orgs/UKM-CYBER-Amikom-Solo/projects/8
 - Organisasi ini dapat sebagai tongkat estafet antar-generasi
 - Sebagai wadah seluruh anggota CYBER, media silaturahmi, dan berbagi ilmu antar-generasi CYBER
