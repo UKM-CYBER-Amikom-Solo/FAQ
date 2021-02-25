@@ -3,12 +3,25 @@
 - 
 
 # Keuntungan yang Didapat Setelah Masuk Organisasi
-- Jika sudah punya karya, silakan show-off disini 
+- Dengan minimal membuat akun GitHub dan menyimpannya di gudang pribadi, kita akan dapat : 
+  - memantau skill yang kita kuasai di pemrograman (cek profil masing-masing)
+  - bisa sebagai lampiran pendamping kita untuk melamar pekerjaan di Bidang IT
+- Kita dapat mencatat dan PROKER CYBER di masa lalu dan masa depan dari generasi ke generasi
+  - https://github.com/UKM-CYBER-Amikom-Solo/PROKER-Tahunan-UKM-CYBER-Amikom-Solo
+  - https://github.com/orgs/UKM-CYBER-Amikom-Solo/projects/2
+- Jika sudah punya karya, silakan show-off disini, format penulisan tolong dirapikan
+  - https://github.com/UKM-CYBER-Amikom-Solo/List-Karya-Mahasiswa-Amikom-Solo/blob/main/README.md
 - Diharapkan para anggota dapat terbantu secara cepat tentang masalahnya di pemrograman
-- ada menu LFG PKM, tinggal posting disini https://github.com/orgs/UKM-CYBER-Amikom-Solo/projects/9
-- 
+- ada menu LFG PKM (Mencari Kawan PKM), tinggal posting disini
+  - https://github.com/orgs/UKM-CYBER-Amikom-Solo/projects/9
+- Kotak Saran
+  - https://github.com/orgs/UKM-CYBER-Amikom-Solo/projects/6
+  - 
 
 # Harapan
+- Dapat membuat UKM CYBER menjadi lebih kompleks dan kaya, sebagai pedoman pengalaman menghadapi dunia kerja
+- Organisasi ini dapat sebagai tongkat estafet antar-generasi
+- Sebagai wadah seluruh anggota CYBER, media silaturahmi, dan berbagi ilmu antar-generasi CYBER
 
 # FAQ (Pertanyaan Yang Sering Diajukan)
   - Organisasi
@@ -16,5 +29,5 @@
       - Merupakan Anggota UKM CYBER yang memiliki semangat untuk belajar dan memperdalam ilmu
       - Silakan request di Grup WA atau bisa dm lewat IG
         - https://www.instagram.com/cyber.amikom/
-      - Untuk mempermudah bisa follow admin
+      - Untuk mempermudah masuk, bisa follow admin
         - https://github.com/Admin-Cyber-Amikom-Solo
