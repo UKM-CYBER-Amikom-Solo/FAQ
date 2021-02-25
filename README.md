@@ -1,6 +1,14 @@
 # Mengapa-GitHub-Organisasi-CYBER-Amikom-Solo-dibuat?
+- dibuat karena kegabutan di masa pandemi corona
+- 
 
-# Keuntungan Yang Didapat Setelah Masuk Organisasi
+# Keuntungan yang Didapat Setelah Masuk Organisasi
+- Jika sudah punya karya, silakan show-off disini 
+- Diharapkan para anggota dapat terbantu secara cepat tentang masalahnya di pemrograman
+- ada menu LFG PKM, tinggal posting disini https://github.com/orgs/UKM-CYBER-Amikom-Solo/projects/9
+- 
+
+# Harapan
 
 # FAQ (Pertanyaan Yang Sering Diajukan)
   - Organisasi
