@@ -9,7 +9,7 @@
 - Kita dapat mencatat dan PROKER CYBER di masa lalu dan masa depan dari generasi ke generasi
   - https://github.com/UKM-CYBER-Amikom-Solo/PROKER-Tahunan-UKM-CYBER-Amikom-Solo
   - https://github.com/orgs/UKM-CYBER-Amikom-Solo/projects/2
-- Jika sudah punya karya, silakan show-off disini, format penulisan tolong dirapikan
+- Jika sudah punya karya, silakan show-off dan berbagi ilmunya disini, format penulisan tolong dirapikan
   - https://github.com/UKM-CYBER-Amikom-Solo/List-Karya-Mahasiswa-Amikom-Solo/blob/main/README.md
 - Diharapkan para anggota dapat terbantu secara cepat tentang masalahnya di pemrograman
 - ada menu LFG PKM (Mencari Kawan PKM), tinggal posting disini
@@ -19,9 +19,11 @@
   - 
 
 # Harapan
-- Dapat membuat UKM CYBER menjadi lebih kompleks dan kaya, sebagai pedoman pengalaman menghadapi dunia kerja
+- Dapat membuat UKM CYBER menjadi lebih kompleks dan kaya ilmu, sebagai pedoman pengalaman menghadapi dunia kerja
+  - https://github.com/orgs/UKM-CYBER-Amikom-Solo/projects/8
 - Organisasi ini dapat sebagai tongkat estafet antar-generasi
 - Sebagai wadah seluruh anggota CYBER, media silaturahmi, dan berbagi ilmu antar-generasi CYBER
+  - https://github.com/UKM-CYBER-Amikom-Solo/Daftar-Angkatan-CYBER
 
 # FAQ (Pertanyaan Yang Sering Diajukan)
   - Organisasi
