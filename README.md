@@ -1,6 +1,5 @@
-## FAQ
 # Mengapa GitHub Organisasi CYBER Amikom Solo dibuat?
-- Terinspirasi dari [sini](https://github.com/sandhikagalih/project-kalian)
+- Terinspirasi dari [sini](https://github.com/sandhikagalih/project-kalian) dan [sini](https://github.com/bebasid/bebasid/blob/master/README.md)
 - Dibuat untuk mengisi kegiatan Anggota sebagai pengganti tatap muka di masa pandemi corona, semoga dapat berlanjut sampai tahun-tahun berikutnya
 - Ketrigger kawan dengan kata "ikut CYBER buat apa?"
 
