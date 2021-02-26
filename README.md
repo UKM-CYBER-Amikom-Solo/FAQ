@@ -27,10 +27,8 @@
   - Organisasi
     - Bagaimana cara masuk Organisasi di GitHub?
       - Merupakan Anggota UKM CYBER yang memiliki semangat untuk belajar dan memperdalam ilmu
-      - Silakan request disini https://github.com/UKM-CYBER-Amikom-Solo/FAQ/discussions/1
-      - Atau silakan request di Grup WA atau bisa dm lewat IG
-        - https://www.instagram.com/cyber.amikom/
-        - 
+      - Silakan request [disini](https://github.com/UKM-CYBER-Amikom-Solo/FAQ/discussions/1)
+      - Atau silakan request di Grup WA atau bisa dm lewat [Instagram](https://www.instagram.com/cyber.amikom/)
+
      
-# GitHub kuwi opo???
-- https://github.com/UKM-CYBER-Amikom-Solo/Belajar-GitHub/blob/main/README.md
+# [GitHub kuwi opo???](https://github.com/UKM-CYBER-Amikom-Solo/Belajar-GitHub/blob/main/README.md)
