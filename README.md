@@ -1,7 +1,10 @@
+ <p align="center">
+SELAMAT DATANG DI UKM CYBER AMIKOM SURAKARTA GITHUB ORGANIZATION
+    </p>
 <p align="center">
-# SELAMAT DATANG DI UKM CYBER ORGANIZATION
     <img src="https://github.com/UKM-CYBER-Amikom-Solo/FAQ/blob/main/image/Logo%20terbaru%20UKM%20Cyber.png" alt="CYBER LOGO" width="330">
-
+    </p>
+---
 
 # Mengapa GitHub Organisasi CYBER Amikom Solo dibuat?
 - Terinspirasi dari [sini](https://github.com/sandhikagalih/project-kalian) dan [sini](https://github.com/bebasid/bebasid/blob/master/README.md)
