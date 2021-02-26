@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/UKM-CYBER-Amikom-Solo/FAQ/blob/main/image/Logo%20terbaru%20UKM%20Cyber.png" alt="CYBER LOGO" width="330">
+
+
 # Mengapa GitHub Organisasi CYBER Amikom Solo dibuat?
 - Terinspirasi dari [sini](https://github.com/sandhikagalih/project-kalian) dan [sini](https://github.com/bebasid/bebasid/blob/master/README.md)
 - Dibuat untuk mengisi kegiatan Anggota sebagai pengganti tatap muka di masa pandemi corona, semoga dapat berlanjut sampai tahun-tahun berikutnya
