@@ -2,7 +2,7 @@
     <img src="https://github.com/UKM-CYBER-Amikom-Solo/FAQ/blob/main/image/Logo%20terbaru%20UKM%20Cyber.png" alt="CYBER LOGO" width="330">
     </p>
 <p align="center">
-    <a>SELAMAT DATANG DI UKM CYBER AMIKOM SURAKARTA GITHUB ORGANIZATION</a>
+    <a>SELAMAT DATANG DI UKM CYBER AMIKOM SOLO GITHUB ORGANIZATION</a>
 </p>
 
 ---
