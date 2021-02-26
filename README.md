@@ -1,4 +1,4 @@
-##FAQ
+## FAQ
 # Mengapa GitHub Organisasi CYBER Amikom Solo dibuat?
 - Terinspirasi dari [sini](https://github.com/sandhikagalih/project-kalian)
 - Dibuat untuk mengisi kegiatan Anggota sebagai pengganti tatap muka di masa pandemi corona, semoga dapat berlanjut sampai tahun-tahun berikutnya
