@@ -41,7 +41,7 @@
 # FAQ (Pertanyaan Yang Sering Diajukan)
   - Kok sewaktu dibuka link-nya Jadi Page Not Found?
     - Karena link tersebut diprivate, dan tidak diizinkan public untuk mengaksesnya
-    - Halaman tersebut mungkin sudah diganti lin/namanya, silakan diperbaiki kalau sempat
+    - Halaman tersebut mungkin sudah diganti link/namanya, silakan diperbaiki kalau sempat
   - Organisasi
     - Bagaimana cara masuk Organisasi ini di GitHub?
       - Merupakan Anggota UKM CYBER yang memiliki semangat untuk belajar dan memperdalam ilmu
