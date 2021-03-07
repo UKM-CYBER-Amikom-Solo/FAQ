@@ -18,6 +18,7 @@
 # Keuntungan yang Didapat Setelah Masuk Organisasi
 - Dengan minimal membuat akun GitHub dan menyimpannya di gudang pribadi, kita akan dapat : 
   - Memiliki backup cloud pribadi dari tugas kuliah atau tugas akhir
+  - Sebagai hosting gratisan (kurang paham kelemahannya)
   - memantau skill yang kita kuasai di pemrograman (cek profil masing-masing)
   - bisa sebagai lampiran pendamping kita untuk melamar pekerjaan di Bidang IT
 - Meningkatkan potensi skill anggota CYBER sesuai passion bidangnya
