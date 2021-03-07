@@ -32,11 +32,14 @@
 
 # Harapan
 - [Dapat membuat UKM CYBER menjadi lebih kompleks dan kaya ilmu, sebagai bekal pengalaman menghadapi dunia kerja](https://github.com/orgs/UKM-CYBER-Amikom-Solo/projects/8)
+- Sebagai catatan massal seluruh anggota
 - Sebagai wadah Project Garis Besar Haluan CYBER *#agak bercanda :P*
-- Sebagai wadah untuk bereksperimen dan mencari anggota yang memiliki kesamaan minat untuk melakukan suatu project kompleks
+- Sebagai wadah ide untuk bereksperimen dan mencari anggota yang memiliki kesamaan minat untuk melakukan suatu project kompleks
 - Organisasi ini dapat sebagai tongkat estafet antar-generasi
 - [Sebagai wadah seluruh anggota CYBER, media silaturahmi, dan berbagi ilmu antar-generasi CYBER](https://github.com/UKM-CYBER-Amikom-Solo/Daftar-Angkatan-CYBER)
 - Semoga banyak yang berinisiatif membuatkan wiki bahkan templatenya
+
+### Kurangi ego dan mindermu, kita disini sama-sama belajar kok! :)
 
 # FAQ (Pertanyaan Yang Sering Diajukan)
   - Kok sewaktu dibuka link-nya Jadi Page Not Found?
