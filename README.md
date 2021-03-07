@@ -10,6 +10,7 @@
 
 # Mengapa GitHub Organisasi CYBER Amikom Solo dibuat?
 - Terinspirasi dari [sini](https://github.com/sandhikagalih/project-kalian) dan [sini](https://github.com/bebasid/bebasid/blob/master/README.md)
+- Mengurangi *looping* kegiatan, dan agar anggota baru dapat dengan cepat dan maksimal untuk beradaptasi dan berkontribusi sesuai passionnya
 - Dibuat untuk mengisi kegiatan Anggota sebagai pengganti tatap muka di masa pandemi corona, semoga dapat berlanjut sampai tahun-tahun berikutnya
 - Ketrigger kawan dengan kata "ikut CYBER buat apa?"
 
@@ -19,6 +20,8 @@
   - Memiliki backup cloud pribadi dari tugas kuliah atau tugas akhir
   - memantau skill yang kita kuasai di pemrograman (cek profil masing-masing)
   - bisa sebagai lampiran pendamping kita untuk melamar pekerjaan di Bidang IT
+- Meningkatkan potensi skill anggota CYBER sesuai passion bidangnya
+- agar anggota baru dapat dengan cepat dan maksimal untuk beradaptasi dan berkontribusi sesuai passionnya
 - Kita dapat mencatat dan PROKER CYBER di masa lalu dan masa depan dari generasi ke generasi
   - [Link 1](https://github.com/UKM-CYBER-Amikom-Solo/PROKER-Tahunan-UKM-CYBER-Amikom-Solo)
   - [Link 2](https://github.com/orgs/UKM-CYBER-Amikom-Solo/projects/2)
@@ -29,13 +32,18 @@
 
 # Harapan
 - [Dapat membuat UKM CYBER menjadi lebih kompleks dan kaya ilmu, sebagai bekal pengalaman menghadapi dunia kerja](https://github.com/orgs/UKM-CYBER-Amikom-Solo/projects/8)
+- Sebagai wadah Project Garis Besar Haluan CYBER *#agak bercanda :P*
+- Sebagai wadah untuk bereksperimen dan mencari anggota yang memiliki kesamaan minat untuk melakukan suatu project kompleks
 - Organisasi ini dapat sebagai tongkat estafet antar-generasi
 - [Sebagai wadah seluruh anggota CYBER, media silaturahmi, dan berbagi ilmu antar-generasi CYBER](https://github.com/UKM-CYBER-Amikom-Solo/Daftar-Angkatan-CYBER)
 - Semoga banyak yang berinisiatif membuatkan wiki bahkan templatenya
 
 # FAQ (Pertanyaan Yang Sering Diajukan)
+  - Kok sewaktu dibuka link-nya Jadi Page Not Found?
+    - Karena link tersebut diprivate, dan tidak diizinkan public untuk mengaksesnya
+    - Halaman tersebut mungkin sudah diganti lin/namanya, silakan diperbaiki kalau sempat
   - Organisasi
-    - Bagaimana cara masuk Organisasi di GitHub?
+    - Bagaimana cara masuk Organisasi ini di GitHub?
       - Merupakan Anggota UKM CYBER yang memiliki semangat untuk belajar dan memperdalam ilmu
       - Silakan request [disini](https://github.com/UKM-CYBER-Amikom-Solo/FAQ/discussions/1)
       - Atau silakan request di Grup WA atau bisa dm lewat [Instagram](https://www.instagram.com/cyber.amikom/)
