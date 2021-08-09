@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/UKM-CYBER-Amikom-Solo/FAQ/blob/main/image/Logo%20terbaru%20UKM%20Cyber.png" alt="CYBER LOGO" width="330">
+    <img src="https://github.com/UKM-CYBER-Amikom-Solo/FAQ/blob/main/image/Logo%20CYBER%20Amikom.png" alt="CYBER LOGO" width="330">
     </p>
 <p align="center">
     <a>SELAMAT DATANG DI UKM CYBER AMIKOM SOLO GITHUB ORGANIZATION</a>
